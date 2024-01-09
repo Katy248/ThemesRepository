@@ -16,7 +16,7 @@
         {
             "Name": "pvtheme",
             "ApplicationThemes": {
-                "hyprland": "https://gitlab.com/Katy248/hyprland-pvtheme"\
+                "hyprland": "https://gitlab.com/Katy248/hyprland-pvtheme"
                 , "waybar": "https://gitlab.com/Katy248/waybar-pvtheme"
                 , "wofi": "https://gitlab.com/Katy248/wofi-pvtheme"
                 , "swaylock": "https://gitlab.com/Katy248/swaylock-pvtheme"
