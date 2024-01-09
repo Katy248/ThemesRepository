@@ -1,0 +1,17 @@
+{
+    "Themes": [
+        {
+            "Name": "kvtheme",
+            "ApplicationThemes": {
+                "pwsh": "https://github.com/Katy248/kvtheme"
+            }
+        },
+        {
+            "Name": "SharpBlue",
+            "Description": "Simple sharp and blue theme for mainly X applications",
+            "ApplicationThemes": {
+                "pwsh": "https://gitlab.com/Katy248/sharpblue"
+            }
+        }
+    ]
+}
