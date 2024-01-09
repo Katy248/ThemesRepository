@@ -10,7 +10,11 @@
             "Name": "SharpBlue",
             "Description": "Simple sharp and blue theme for mainly X applications",
             "ApplicationThemes": {
-                "pwsh": "https://gitlab.com/Katy248/sharpblue"
+                "alacritty": "https://gitlab.com/Katy248/alacritty-sharpblue"
+                , "bspwm": "https://gitlab.com/Katy248/bspwm-sharpblue"
+                , "polybar": "https://gitlab.com/Katy248/polybar-sharpblue"
+                , "pwsh": "https://gitlab.com/Katy248/sharpblue"
+                , "rofi": "https://gitlab.com/Katy248/rofi-sharpblue"
             }
         },
         {
