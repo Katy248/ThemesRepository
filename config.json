@@ -12,6 +12,7 @@
             "ApplicationThemes": {
                 "alacritty": "https://gitlab.com/Katy248/alacritty-sharpblue"
                 , "bspwm": "https://gitlab.com/Katy248/bspwm-sharpblue"
+                , "hyprland" : "https://gitlab.com/Katy248/hyprland-sharpblue"
                 , "polybar": "https://gitlab.com/Katy248/polybar-sharpblue"
                 , "pwsh": "https://gitlab.com/Katy248/sharpblue"
                 , "rofi": "https://gitlab.com/Katy248/rofi-sharpblue"
