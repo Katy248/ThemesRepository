@@ -3,7 +3,7 @@
         {
             "Name": "kvtheme",
             "ApplicationThemes": {
-                "pwsh": "https://github.com/Katy248/kvtheme"
+                "powershell": "https://github.com/Katy248/kvtheme"
             }
         },
         {
